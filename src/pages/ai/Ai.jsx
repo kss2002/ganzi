@@ -135,7 +135,7 @@ export default function Ai() {
           </div>
         )}
 
-        <p className="ai-footer-text">더 많은 사기 사례와 예방 수칙은 게시판에서 확인할 수 있어요</p>
+        <p className="ai-footer-text">더 많은 사기 사례와 예방 수칙은 게시판에서 확인할 수 있어요.<br/>또한, 스캠프는 정보 제공시 실수를 할 수 있습니다.</p>
       </div>
     </div>
   );
